@@ -1,0 +1,3 @@
+- [x] Share the live preview address with the user.
+- [x] Build and verify Niranjana's birthday surprise page in desktop and mobile preview.
+- [x] Add the six uploaded photos to the birthday gallery, including the converted HEIC image.
